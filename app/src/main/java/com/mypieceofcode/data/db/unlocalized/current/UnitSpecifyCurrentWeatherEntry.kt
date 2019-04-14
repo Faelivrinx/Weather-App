@@ -1,4 +1,4 @@
-package com.mypieceofcode.data.db.unlocalized
+package com.mypieceofcode.data.db.unlocalized.current
 
 
 interface UnitSpecifyCurrentWeatherEntry {
